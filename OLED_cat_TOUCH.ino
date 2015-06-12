@@ -3,7 +3,7 @@
 #include <SPI.h>
 #include <Wire.h>
 #include <Piccolino_OLED.h>
-#include "WAV_OLED_cat.h"
+#include "OLED_cat.h"
 #include <Piccolino_RAM.h>
 #include <CapacitiveSensor.h>
 
